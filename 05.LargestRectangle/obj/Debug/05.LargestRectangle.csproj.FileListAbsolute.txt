@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\ExamTestsCSharpAdvanced\05.LargestRectangle\bin\Debug\05.LargestRectangle.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\ExamTestsCSharpAdvanced\05.LargestRectangle\bin\Debug\05.LargestRectangle.exe
+c:\users\elena\documents\visual studio 2013\Projects\ExamTestsCSharpAdvanced\05.LargestRectangle\bin\Debug\05.LargestRectangle.pdb
+c:\users\elena\documents\visual studio 2013\Projects\ExamTestsCSharpAdvanced\05.LargestRectangle\obj\Debug\05.LargestRectangle.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\ExamTestsCSharpAdvanced\05.LargestRectangle\obj\Debug\05.LargestRectangle.exe
+c:\users\elena\documents\visual studio 2013\Projects\ExamTestsCSharpAdvanced\05.LargestRectangle\obj\Debug\05.LargestRectangle.pdb
