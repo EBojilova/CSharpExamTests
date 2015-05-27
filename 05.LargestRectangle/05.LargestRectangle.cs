@@ -23,9 +23,9 @@ class LargestRectangle
         {
             for (int col = 0; col < cols; col++)
             {
-                for (int h = 1; h <= cols - col; h++)
+                for (int h = 1; h <= rows - row; h++)
                 {
-                    for (int w = 1; w <= rows - row; w++)
+                    for (int w = 1; w <= cols - col; w++)
                     {
                         if (IsRect(matrix, row, col, h, w))
                         {
@@ -36,6 +36,7 @@ class LargestRectangle
                                 height = h;
                                 finalCol = col;
                                 width = w;
+                                pattern = matrix[row][col];
                             }
                         }
                     }
@@ -52,6 +53,7 @@ class LargestRectangle
             matrix[finalRow][col] = string.Format("[{0}]", pattern);
             matrix[finalRow + height - 1][col] = string.Format("[{0}]", pattern);
         }
+        string encoded;
         foreach (var stringArray in matrix)
         {
             foreach (var piece in stringArray)
@@ -59,7 +61,8 @@ class LargestRectangle
                 //string xml = "<node>it's my \"node\" & i like it<node>";
                 //string encodedXml = System.Security.SecurityElement.Escape(xml);
                 //// RESULT: &lt;node&gt;it&apos;s my &quot;node&quot; &amp; i like it&lt;node&gt;
-                Console.Write("{0,5}", piece);
+                encoded = System.Security.SecurityElement.Escape(piece);
+                Console.Write("{0,5}", encoded);
             }
             Console.WriteLine();
         }
