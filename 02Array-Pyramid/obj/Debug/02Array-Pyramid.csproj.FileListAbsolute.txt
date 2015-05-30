@@ -1,0 +1,1 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\02Array-Pyramid\bin\Debug\02Array-Pyramid.exe.config

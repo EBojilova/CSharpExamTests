@@ -1,0 +1,2 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\09.StuckNumbersForeach\bin\Debug\09.StuckNumbersForeach.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\09.StuckNumbersForeach\bin\Debug\09.StuckNumbersForeach.exe.config

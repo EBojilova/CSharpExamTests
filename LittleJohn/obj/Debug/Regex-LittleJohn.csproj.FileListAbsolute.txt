@@ -1,0 +1,3 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\LittleJohn\bin\Debug\LittleJohn.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\LittleJohn\obj\Debug\LittleJohn.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\LittleJohn\obj\Debug\LittleJohn.pdb

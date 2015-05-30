@@ -1,0 +1,9 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\RecursionFor\LongestNonDecreasingSequencuenseBit\bin\Debug\LongestNonDecreasingSequencuenseBit.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\RecursionFor\LongestNonDecreasingSequencuenseBit\bin\Debug\LongestNonDecreasingSequencuenseBit.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\RecursionFor\LongestNonDecreasingSequencuenseBit\bin\Debug\LongestNonDecreasingSequencuenseBit.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\RecursionFor\LongestNonDecreasingSequencuenseBit\obj\Debug\LongestNonDecreasingSequencuenseBit.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\RecursionFor\LongestNonDecreasingSequencuenseBit\obj\Debug\LongestNonDecreasingSequencuenseBit.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\RecursionFor\LongestNonDecreasingSequencuenseBit\obj\Debug\LongestNonDecreasingSequencuenseBit.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\LongestNonDecreasingSequencuenseBit\bin\Debug\LongestNonDecreasingSequencuenseBit.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\LongestNonDecreasingSequencuenseBit\obj\Debug\LongestNonDecreasingSequencuenseBit.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\LongestNonDecreasingSequencuenseBit\obj\Debug\LongestNonDecreasingSequencuenseBit.pdb

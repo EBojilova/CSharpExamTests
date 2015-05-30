@@ -1,0 +1,3 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\LongestNonDecreasingSequence\bin\Debug\LongestNonDecreasingSequence.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\LongestNonDecreasingSequence\obj\Debug\LongestNonDecreasingSequence.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\LongestNonDecreasingSequence\obj\Debug\LongestNonDecreasingSequence.pdb

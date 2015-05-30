@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\08.LegoBlocks\bin\Debug\08.LegoBlocks.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\08.LegoBlocks\bin\Debug\08.LegoBlocks.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\08.LegoBlocks\bin\Debug\08.LegoBlocks.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\08.LegoBlocks\obj\Debug\08.LegoBlocks.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\08.LegoBlocks\obj\Debug\08.LegoBlocks.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\08.LegoBlocks\obj\Debug\08.LegoBlocks.pdb

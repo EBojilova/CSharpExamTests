@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\PyramidMine\bin\Debug\PyramidMine.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\PyramidMine\bin\Debug\PyramidMine.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\PyramidMine\bin\Debug\PyramidMine.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\PyramidMine\obj\Debug\PyramidMine.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\PyramidMine\obj\Debug\PyramidMine.pdb

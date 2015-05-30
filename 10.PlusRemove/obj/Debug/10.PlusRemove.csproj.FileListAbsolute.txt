@@ -1,0 +1,9 @@
+c:\users\elena\documents\visual studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\10.PlusRemove\bin\Debug\10.PlusRemove.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\10.PlusRemove\bin\Debug\10.PlusRemove.exe
+c:\users\elena\documents\visual studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\10.PlusRemove\bin\Debug\10.PlusRemove.pdb
+c:\users\elena\documents\visual studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\10.PlusRemove\obj\Debug\10.PlusRemove.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\10.PlusRemove\obj\Debug\10.PlusRemove.exe
+c:\users\elena\documents\visual studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\10.PlusRemove\obj\Debug\10.PlusRemove.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\10.PlusRemove\bin\Debug\10.PlusRemove.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\10.PlusRemove\obj\Debug\10.PlusRemove.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\10.PlusRemove\obj\Debug\10.PlusRemove.pdb

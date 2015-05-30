@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\06.SubSetSum\bin\Debug\06.SubSetSum.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\06.SubSetSum\bin\Debug\06.SubSetSum.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\06.SubSetSum\bin\Debug\06.SubSetSum.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\06.SubSetSum\obj\Debug\06.SubSetSum.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\06.SubSetSum\obj\Debug\06.SubSetSum.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\01.ArraysListsStacksQueues\06.SubSetSum\obj\Debug\06.SubSetSum-Katya.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\09.SemanticHTMLInnos\bin\Debug\09.SemanticHTMLInnos.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\09.SemanticHTMLInnos\bin\Debug\09.SemanticHTMLInnos.exe.config

@@ -1,0 +1,3 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\OfficeStuff\bin\Debug\OfficeStuff.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\OfficeStuff\obj\Debug\OfficeStuff.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\OfficeStuff\obj\Debug\OfficeStuff.pdb

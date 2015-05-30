@@ -1,0 +1,9 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\13.ActivityTracker\bin\Debug\13.ActivityTracker.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\13.ActivityTracker\bin\Debug\13.ActivityTracker.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\13.ActivityTracker\bin\Debug\13.ActivityTracker.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\13.ActivityTracker\obj\Debug\13.ActivityTracker.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\13.ActivityTracker\obj\Debug\13.ActivityTracker.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\13.ActivityTracker\obj\Debug\13.ActivityTracker.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\13.ActivityTracker\bin\Debug\13.ActivityTracker.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\13.ActivityTracker\obj\Debug\13.ActivityTracker.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\13.ActivityTracker\obj\Debug\13.ActivityTracker.pdb

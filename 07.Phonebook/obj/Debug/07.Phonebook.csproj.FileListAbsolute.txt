@@ -1,0 +1,9 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\07.Phonebook\bin\Debug\07.Phonebook.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\07.Phonebook\bin\Debug\07.Phonebook.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\07.Phonebook\bin\Debug\07.Phonebook.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\07.Phonebook\obj\Debug\07.Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\07.Phonebook\obj\Debug\07.Phonebook.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\07.Phonebook\obj\Debug\07.Phonebook.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\07.Phonebook\bin\Debug\07.Phonebook.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\07.Phonebook\obj\Debug\07.Phonebook.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\07.Phonebook\obj\Debug\07.Phonebook.pdb

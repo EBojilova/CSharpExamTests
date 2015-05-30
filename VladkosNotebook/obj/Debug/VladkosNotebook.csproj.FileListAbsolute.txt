@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\VladkosNotebook\bin\Debug\VladkosNotebook.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\VladkosNotebook\bin\Debug\VladkosNotebook.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\VladkosNotebook\bin\Debug\VladkosNotebook.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\VladkosNotebook\obj\Debug\VladkosNotebook.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\VladkosNotebook\obj\Debug\VladkosNotebook.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\VladkosNotebook\obj\Debug\VladkosNotebook.pdb

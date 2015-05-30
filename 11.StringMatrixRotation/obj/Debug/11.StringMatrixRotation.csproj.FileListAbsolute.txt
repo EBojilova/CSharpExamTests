@@ -1,0 +1,9 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.pdb

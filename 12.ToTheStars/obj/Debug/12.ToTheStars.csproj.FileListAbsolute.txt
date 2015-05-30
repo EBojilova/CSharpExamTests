@@ -1,0 +1,9 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\12.ToTheStars\bin\Debug\12.ToTheStars.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\12.ToTheStars\bin\Debug\12.ToTheStars.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\12.ToTheStars\bin\Debug\12.ToTheStars.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\12.ToTheStars\obj\Debug\12.ToTheStars.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\12.ToTheStars\obj\Debug\12.ToTheStars.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.MultidimensionalArraysSetsDictionaries\12.ToTheStars\obj\Debug\12.ToTheStars.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\12.ToTheStars\bin\Debug\12.ToTheStars.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\12.ToTheStars\obj\Debug\12.ToTheStars.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\12.ToTheStars\obj\Debug\12.ToTheStars.pdb

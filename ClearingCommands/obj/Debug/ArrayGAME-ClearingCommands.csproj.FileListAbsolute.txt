@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\ClearingCommands\bin\Debug\ClearingCommands.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\ClearingCommands\bin\Debug\ClearingCommands.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\ClearingCommands\bin\Debug\ClearingCommands.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\ClearingCommands\obj\Debug\ArrayGAME-ClearingCommands.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\ClearingCommands\obj\Debug\ClearingCommands.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\ClearingCommands\obj\Debug\ClearingCommands.pdb

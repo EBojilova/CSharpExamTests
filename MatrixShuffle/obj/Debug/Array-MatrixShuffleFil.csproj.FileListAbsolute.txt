@@ -1,0 +1,3 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\MatrixShuffle\bin\Debug\MatrixShuffle.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\MatrixShuffle\obj\Debug\MatrixShuffle.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\MatrixShuffle\obj\Debug\MatrixShuffle.pdb

@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\SumOfAllValues\bin\Debug\SumOfAllValues.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\SumOfAllValues\bin\Debug\SumOfAllValues.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\SumOfAllValues\bin\Debug\SumOfAllValues.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\SumOfAllValues\obj\Debug\Regex-SumOfAllValues.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\SumOfAllValues\obj\Debug\SumOfAllValues.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\SumOfAllValues\obj\Debug\SumOfAllValues.pdb

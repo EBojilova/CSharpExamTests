@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\BiggestTableRow\bin\Debug\BiggestTableRow.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\BiggestTableRow\bin\Debug\BiggestTableRow.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\BiggestTableRow\bin\Debug\BiggestTableRow.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\BiggestTableRow\obj\Debug\Regex-BiggestTableRow.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\BiggestTableRow\obj\Debug\BiggestTableRow.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\BiggestTableRow\obj\Debug\BiggestTableRow.pdb

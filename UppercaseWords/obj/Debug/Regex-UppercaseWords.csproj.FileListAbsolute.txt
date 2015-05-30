@@ -1,0 +1,3 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\UppercaseWords\bin\Debug\UppercaseWords.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\UppercaseWords\obj\Debug\UppercaseWords.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\UppercaseWords\obj\Debug\UppercaseWords.pdb

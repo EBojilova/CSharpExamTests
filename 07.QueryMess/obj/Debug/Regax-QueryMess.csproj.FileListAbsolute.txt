@@ -1,0 +1,3 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\07.QueryMess\bin\Debug\07.QueryMess.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\07.QueryMess\obj\Debug\07.QueryMess.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\07.QueryMess\obj\Debug\07.QueryMess.pdb

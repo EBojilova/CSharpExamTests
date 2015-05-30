@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\CouplesFrequency\bin\Debug\CouplesFrequency.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\CouplesFrequency\bin\Debug\CouplesFrequency.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\CouplesFrequency\bin\Debug\CouplesFrequency.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\CouplesFrequency\obj\Debug\CouplesFrequency.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\CouplesFrequency\obj\Debug\CouplesFrequency.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\CouplesFrequency\obj\Debug\CouplesFrequency.pdb
