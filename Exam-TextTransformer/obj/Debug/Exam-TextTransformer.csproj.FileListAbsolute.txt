@@ -1,0 +1,9 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\TextTransformer\bin\Debug\TextTransformer.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\TextTransformer\bin\Debug\TextTransformer.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\TextTransformer\bin\Debug\TextTransformer.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\TextTransformer\obj\Debug\Exam-TextTransformer.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\TextTransformer\obj\Debug\TextTransformer.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\TextTransformer\obj\Debug\TextTransformer.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\Exam-TextTransformer\bin\Debug\TextTransformer.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\Exam-TextTransformer\obj\Debug\TextTransformer.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\Exam-TextTransformer\obj\Debug\TextTransformer.pdb

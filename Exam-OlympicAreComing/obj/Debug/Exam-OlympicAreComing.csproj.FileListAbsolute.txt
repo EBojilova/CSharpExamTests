@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\Exam-OlympicAreComing\bin\Debug\Exam-OlympicAreComing.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\Exam-OlympicAreComing\bin\Debug\Exam-OlympicAreComing.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\Exam-OlympicAreComing\bin\Debug\Exam-OlympicAreComing.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\Exam-OlympicAreComing\obj\Debug\Exam-OlympicAreComing.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\Exam-OlympicAreComing\obj\Debug\Exam-OlympicAreComing.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\Exam-OlympicAreComing\obj\Debug\Exam-OlympicAreComing.pdb

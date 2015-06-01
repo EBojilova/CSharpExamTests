@@ -1,0 +1,3 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\Disc\bin\Debug\Disc.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\Disc\obj\Debug\Disc.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\Disc\obj\Debug\Disc.pdb

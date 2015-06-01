@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\TargetPractice\bin\Debug\TargetPractice.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\TargetPractice\bin\Debug\TargetPractice.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\TargetPractice\bin\Debug\TargetPractice.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\TargetPractice\obj\Debug\TargetPractice.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\TargetPractice\obj\Debug\TargetPractice.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\TargetPractice\obj\Debug\TargetPractice.pdb

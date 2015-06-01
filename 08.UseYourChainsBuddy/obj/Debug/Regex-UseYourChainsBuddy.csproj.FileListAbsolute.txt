@@ -1,0 +1,3 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\08.UseYourChainsBuddy\bin\Debug\08.UseYourChainsBuddy.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\08.UseYourChainsBuddy\obj\Debug\08.UseYourChainsBuddy.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\08.UseYourChainsBuddy\obj\Debug\08.UseYourChainsBuddy.pdb

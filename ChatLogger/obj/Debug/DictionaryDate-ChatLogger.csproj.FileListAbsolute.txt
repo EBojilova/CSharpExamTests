@@ -1,0 +1,3 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\ChatLogger\bin\Debug\ChatLogger.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\ChatLogger\obj\Debug\ChatLogger.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\ChatLogger\obj\Debug\ChatLogger.pdb

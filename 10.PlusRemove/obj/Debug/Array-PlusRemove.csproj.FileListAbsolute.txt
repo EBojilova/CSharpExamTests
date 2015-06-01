@@ -1,0 +1,3 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\10.PlusRemove\bin\Debug\10.PlusRemove.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\10.PlusRemove\obj\Debug\10.PlusRemove.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\10.PlusRemove\obj\Debug\10.PlusRemove.pdb

@@ -28,7 +28,7 @@ class SchoolSystem
         foreach (var student in students)
         {
             //var sub = student.Value.Select(x => x.Key + " - " + x.Value.Average().ToString("0.00")).Aggregate((x, y) => x + ", " + y);, kato v tozi sluchai mahame string.Join v razpechatvaneto
-            var sub = student.Value.Select(x => string.Format("{0} - {1}", x.Key,  string.Format("{0:F2}",x.Value.Average())));
+            var sub = student.Value.Select(x => string.Format("{0} - {1}", x.Key, string.Format("{0:F2}", x.Value.Average())));
             Console.WriteLine("{0}: [{1}]", student.Key, string.Join(", ", sub));
         }
     }

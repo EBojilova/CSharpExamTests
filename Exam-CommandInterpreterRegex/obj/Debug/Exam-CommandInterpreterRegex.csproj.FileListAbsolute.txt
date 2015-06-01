@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\Exam-CommandInterpreterRegex\bin\Debug\Exam-CommandInterpreterRegex.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\Exam-CommandInterpreterRegex\bin\Debug\Exam-CommandInterpreterRegex.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\Exam-CommandInterpreterRegex\bin\Debug\Exam-CommandInterpreterRegex.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\Exam-CommandInterpreterRegex\obj\Debug\Exam-CommandInterpreterRegex.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\Exam-CommandInterpreterRegex\obj\Debug\Exam-CommandInterpreterRegex.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\ExamTestsCSharpAdvanced\Exam-CommandInterpreterRegex\obj\Debug\Exam-CommandInterpreterRegex.pdb
